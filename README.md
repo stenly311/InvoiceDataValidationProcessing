@@ -6,7 +6,10 @@ Thank you for a very nice and productive discovery session with our team here at
  
 After this upcoming call the CustomerX team should know what’s ahead for them on the journey to unlocking the full potential of the Rossum solution.
 Feel free to combine life demonstrations with any type of assets you find useful. All relevant stakeholders will be represented by Rossum team members.
-We would like to review the requirements that you have most certainly identified during the Discovery Call with our key stakeholders. Please walk us through your solutions to our troubles and teach us how to maintain and further develop these.
+We would like to review the requirements that you have most certainly identified during the Discovery Call with our key stakeholders. 
+
+Please walk us through your solutions to our troubles and teach us how to maintain and further develop these.
+
 Discuss all project-management related items, touch on commercials, discuss cooperation with CustomerX personnel, SLAs, KPIs and everything that you believe should be discussed when kicking off implementation of a professional services project.
 
 # Access to Rossum Team
